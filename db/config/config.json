@@ -1,6 +1,5 @@
 {
   "development": {
-    "env": false,
     "username": "postgres",
     "password": null,
     "database": "address-bloc-dev",
